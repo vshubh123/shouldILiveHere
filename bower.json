@@ -1,0 +1,25 @@
+{
+  "name": "shouldILiveHere",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vshubh123/shouldILiveHere",
+  "authors": [
+    "Shubham Vij <vshubh123@gmail.com>"
+  ],
+  "description": "Should I Live Here",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.7"
+  }
+}

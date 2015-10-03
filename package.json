@@ -1,0 +1,33 @@
+{
+  "name": "silh",
+  "version": "1.0.0",
+  "description": "Should I Live here?",
+  "main": "app.js",
+  "dependencies": {
+    "bower": "^1.5.3",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "open": "*",
+    "grunt-nodemon": "*",
+    "grunt-concurrent": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-uglify": "*"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "Live",
+    "Here",
+    "Should",
+    "Good",
+    "Landlord",
+    "Bad",
+    "Neighbourhood"
+  ],
+  "author": "Shubham Vij"
+}
